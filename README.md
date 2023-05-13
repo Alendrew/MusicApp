@@ -1,4 +1,5 @@
 # Music APP
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Alendrew/MusicApp) 
 
 # Sobre o projeto
 Aplicativo de música para praticar minhas habilidades de desenvolvimento front-end no Android.
